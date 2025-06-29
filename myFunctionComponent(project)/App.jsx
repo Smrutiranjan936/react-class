@@ -1,6 +1,5 @@
 import React from "react"
 import MyFuntanalComponent from "./component/MyFuntanalComponent"
-import MyClassComponent from "./component/MyClassComponent"
 function App() {
   return (
 
