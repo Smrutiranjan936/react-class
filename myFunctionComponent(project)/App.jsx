@@ -9,7 +9,6 @@ function App() {
         Hello i am Smrutiranjan From puri.
       </h1>
       <MyFuntanalComponent />
-      <MyClassComponent />
     </React.Fragment>
 
   )
