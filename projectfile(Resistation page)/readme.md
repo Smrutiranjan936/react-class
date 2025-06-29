@@ -2,6 +2,6 @@ npm create vite@latest
 
 npm install
 
-cd ./projectfile(Resistation page)
+cd ./projectfilec(Resistation page)
 
 npm run dev
